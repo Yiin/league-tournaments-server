@@ -1,0 +1,27 @@
+{
+  "providers": [
+    {
+      "id": 138,
+      "name": "GGG",
+      "region": "NA"
+    }
+  ],
+  "tournaments": [
+    {
+      "id": 6048,
+      "providerId": 138,
+      "name": "ggg-weekly-1"
+    }
+  ],
+  "codes": [
+    {
+      "code": "NA6048-TOURNAMENTCODE0001",
+      "tournamentId": 6048,
+      "allowedSummonerIds": [],
+      "mapType": "SUMMONERS_RIFT",
+      "pickType": "BLIND_PICK",
+      "spectatorType": "ALL",
+      "teamSize": 5
+    }
+  ]
+}
